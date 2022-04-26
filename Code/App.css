@@ -1,0 +1,106 @@
+
+.container1{
+  display: flex;  
+  justify-content: center;
+  background-color: aquamarine;
+}
+
+.container2{
+  display: flex;  
+  justify-content: center;
+  background-color: rgb(227, 255, 127);
+  height: 50px;
+}
+
+.select{
+  display: flex;
+  width: 25%;
+  justify-content: center;
+  height: 30px;
+  margin-top: 10px;
+}
+
+.container3{
+  display: flex;  
+  justify-content: center;
+  margin-top: 1%;
+  height: 100px;
+}
+
+.container4{
+  display: flex;  
+  justify-content: center;
+  height: 50px;
+}
+
+.phoneCode{
+  font-weight: 600;
+  font-size: x-large;
+}
+
+.container5{
+  display: flex;  
+  justify-content: center;
+  margin-top: 1%;
+  height: 40px;
+}
+
+.container6{
+  display: flex;  
+  justify-content: center;
+  margin-top: 1%;
+}
+
+
+.tag{
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 5%;
+}
+
+.tag1{
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 3%;
+}
+
+.tag2{
+  display: flex;
+  width: 25%;
+  justify-content: center;
+  height: 30px;
+  margin-top: 1px;
+}
+
+
+.button{
+  margin-top: 1%;
+  border-radius: 25px;
+  border-color: rgb(0, 238, 255);
+  width: 90px;
+  height: 30px;
+  }
+
+  .buttonDiv{
+    display: flex;
+    justify-content: center;
+  }
+
+.button1{
+  margin-top: 1%;
+  border-radius: 25px;
+  border-color: rgb(0, 238, 255);
+  width: 90px;
+  height: 30px;
+  
+}
+
+.box{
+  width: 20%;
+}
